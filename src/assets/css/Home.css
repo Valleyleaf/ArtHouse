@@ -1,0 +1,10 @@
+.homeClass{
+  position: relative;
+    display: flex;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    color: var(--white);
+    background-color: var( --testColor);
+  }
+  

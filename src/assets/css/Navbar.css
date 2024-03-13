@@ -1,0 +1,28 @@
+.NavClass{
+  position: relative;
+    display: flex;
+    flex: 3;
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--white);
+    background-color: var(--bgcolor);
+    overflow: hidden;
+  }
+  
+  .navCartImg{
+    width: 35px;
+    height: 35px;
+  }
+
+  .navButton{
+    background-color: var(--Transparent);
+    transition: transform 0.3s ease;
+  }
+
+  .navButton:hover{
+    background-color: var(--Transparent);
+    border-color:var(--Transparent);
+    transition: transform 0.3s ease;
+    transform: scale(1.3);
+  }

@@ -1,7 +1,9 @@
 import React from "react";
+import '../assets/css/Home.css'
 
-export default function Header(){
+
+export default function Home(){
     return(
-        <div>Home</div>
+        <div className="homeClass">Home</div>
     );
 };
