@@ -18,8 +18,8 @@ export default function Header(){
           className="flex-container-row title"
           onClick={handleLinkClick}
         >
-                <h2 className="title">ArtHouse</h2>
-                <h2 className="title red">SJ</h2>
+                <h2 className="title pushDown">ArtHouse</h2>
+                <h2 className="title2 red">SJ</h2>
         </Link>
             <p className="flavorText">Local Art for a local purpose</p>
         </div>

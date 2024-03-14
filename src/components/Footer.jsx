@@ -8,7 +8,7 @@ import '../assets/css/Footer.css'
 export default function Footer(){
     return (
       <div>
-          <div className='footerClass'>
+          <div className='footerClass footerBG'>
             <div className='footerRow'>
             <a href="https://www.linkedin.com/in/aston-andersson-dahllof-b4310ab5/" target="_blank">
             <img className='small-img' src={linkedinButton} alt="link to linkedin" />

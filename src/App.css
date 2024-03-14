@@ -6,6 +6,7 @@
   background-color: var(--bgcolor);
   --bgcolor: #404040;
   --white: #ffffff;
+  --linkColor: #ff0000;
   --Transparent: #ffffff00;
   --testColor: #ffcfcf;
 }

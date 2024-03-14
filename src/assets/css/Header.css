@@ -8,13 +8,29 @@
     height: 210px;
     color: var(--white);
     background-color: var(--bgcolor);
+    background-image: url('../img/SJshot.jpg');
+    background-attachment: fixed;
   }
 
   .title{
+    font-size: 105px;
+    color: var(--white);
+    margin: 0px;
+  }
+
+  .pushDown{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; 
+  }
+
+  .title2{
     font-size: 122px;
     color: var(--white);
     margin: 0px;
   }
+
+
 
   .flavorText{
     font-size: 22px;
